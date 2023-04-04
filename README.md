@@ -2,4 +2,4 @@
 - 👀 I’m interested in developing web apps, learning languages, singing and playing the guitar.
 - 🌱 I’m currently in university.
 - 🤝 I’m looking for someone to go to the gym with.
-- 📫 Contact me here
+- 📫 Contact me [here](https://github.com/mollevi/mollevi/blob/mollevi-messages/messenger.txt)
