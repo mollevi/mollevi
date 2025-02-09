@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mollevi
 - 👀 I’m interested in developing web apps, learning natural human languages, singing and playing the guitar.
-- 🌱 I’m currently at university.
+- 🌱 I’m based in Hungary.
 - 🤝 I’m always looking for someone to go to the gym with.
 - 📫 Contact me [here](https://github.com/mollevi/mollevi/blob/mollevi-messages/messenger.txt)
+- 🌍 [See my personal webpage for more.](https://mollevi.eu)
